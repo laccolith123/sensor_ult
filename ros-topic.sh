@@ -1,0 +1,3 @@
+
+rostopic echo ultrasound0
+
